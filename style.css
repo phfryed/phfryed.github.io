@@ -1,11 +1,11 @@
 html {
-    background-color: #907A70;
+    background-color: #FFFFFF;
     background-size: cover;
     color: #444452;
     font-family: "Source Sans Pro", Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.5;
     width: calc(100vw - 30px);
-    border: solid 15px #FFC9CB;
+    border: solid 15px #FFFFFF;
 }
 
 body {
